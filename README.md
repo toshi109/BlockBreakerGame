@@ -26,4 +26,4 @@ Difficulty settings (Beginner, Normal, Expert)
 
 1. **Download the `.zip` file from the [Download Page](https://github.com/toshi109/BlockBreakerGame/releases)**
 
-2. **Unzip the file and double-click `BlockBreakerGame.exe` to start the game!
+2. **Unzip the file and double-click `game.exe` to start the game!
